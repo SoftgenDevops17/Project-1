@@ -2,15 +2,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.kevinsawicki</groupId>
-	<artifactId>github-maven-example</artifactId>
+	<groupId>com.github.devops2k17</groupId>
+	<artifactId>Project-1</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
-	<url>https://github.com/kevinsawicki/github-maven-example</url>
+	<url>https://github.com/SoftgenDevops17/Project-1</url>
 
 	<issueManagement>
-		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
+		<url>https://github.com/SoftgenDevops17/Project-1/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
 
@@ -23,17 +23,17 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/kevinsawicki/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+		<url>https:https://github.com/SoftgenDevops17/Project-1</url>
+		<connection>scm:git:git://github.com/SoftgenDevops17/Project-1.git</connection>
+		<developerConnection>scm:git:git@github.com:SoftgenDevops17/Project-1.git</developerConnection>
 	</scm>
 
 	<developers>
 		<developer>
-			<email>kevinsawicki@gmail.com</email>
-			<name>Kevin Sawicki</name>
-			<url>https://github.com/kevinsawicki</url>
-			<id>kevinsawicki</id>
+			<email>manee2k6@gmail.com</email>
+			<name>Manivannan</name>
+			<url>https://github.com/SoftgenDevops17</url>
+			<id>devops2k17</id>
 		</developer>
 	</developers>
 
